@@ -618,6 +618,9 @@ header .search-bar-container label:hover {
     color: var(--orange);
 }
 
+.swiper-wrapper {
+    cursor: pointer;
+}
 
 /* media query */
 @media (max-width: 1200px) {
